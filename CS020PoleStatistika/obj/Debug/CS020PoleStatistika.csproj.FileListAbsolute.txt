@@ -1,0 +1,10 @@
+C:\Users\Favy\source\repos\CS020PoleStatistika\CS020PoleStatistika\bin\Debug\CS020PoleStatistika.exe.config
+C:\Users\Favy\source\repos\CS020PoleStatistika\CS020PoleStatistika\bin\Debug\CS020PoleStatistika.exe
+C:\Users\Favy\source\repos\CS020PoleStatistika\CS020PoleStatistika\bin\Debug\CS020PoleStatistika.pdb
+C:\Users\Favy\source\repos\CS020PoleStatistika\CS020PoleStatistika\obj\Debug\CS020PoleStatistika.csprojAssemblyReference.cache
+C:\Users\Favy\source\repos\CS020PoleStatistika\CS020PoleStatistika\obj\Debug\CS020PoleStatistika.PoleStatistikaForm.resources
+C:\Users\Favy\source\repos\CS020PoleStatistika\CS020PoleStatistika\obj\Debug\CS020PoleStatistika.Properties.Resources.resources
+C:\Users\Favy\source\repos\CS020PoleStatistika\CS020PoleStatistika\obj\Debug\CS020PoleStatistika.csproj.GenerateResource.cache
+C:\Users\Favy\source\repos\CS020PoleStatistika\CS020PoleStatistika\obj\Debug\CS020PoleStatistika.csproj.CoreCompileInputs.cache
+C:\Users\Favy\source\repos\CS020PoleStatistika\CS020PoleStatistika\obj\Debug\CS020PoleStatistika.exe
+C:\Users\Favy\source\repos\CS020PoleStatistika\CS020PoleStatistika\obj\Debug\CS020PoleStatistika.pdb
